@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+       <!--  <class name="Testcases.checkcinputtype"/>
+     <class name="Testcases.checkloginbtnpresent"/>
+     
+     <class name="Testcases.checkuseridplaceholder"/>
+     <class name="Testcases.checkuserfieldpresent"/>
+     
+     <class name="Testcases.checkpasswordfieldpresent"/>
+     
+     <class name="Testcases.checkpasswordfieldpresent"/>
+     
+     
+    <class name="Testcases.checknavigatetoforgotpassword"/>
+     
+    
+     
+     <class name="Testcases.checkwithforgotpasswordlink"/>-->
+     <class name="Testcases.checkuserfield_alphabets"/>
+     
+    
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
